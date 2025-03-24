@@ -41,7 +41,7 @@ export function VerticalProjectSlider() {
       id: "iot-shower",
       title: "IoT Shower Device",
       description: "Collecting data on our shower habits with a dynamo-powered shower device",
-      image: "/placeholder.svg?height=600&width=800",
+      image: "/videos/product-showcase.mp4
       category: "IoT",
     },
     {
